@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.9i55.com/index.php
+[DOC#649]
+BASEURL=http://twdudu.com/teachtest.htm
+ORIGURL=http://twdudu.com/teachtest.htm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cmylw.cn/
+IDList=
+IconFile=C:\WINDOWS\system32\SHELL32.dll
+IconIndex=41
+HotKey=0
